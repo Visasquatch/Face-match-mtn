@@ -1,0 +1,3 @@
+mv face-match-mtn/face-match/* face-match-mtn/
+mv /face-match/* face-match-mtn/
+mv /face-match-mtn/* face-match/
